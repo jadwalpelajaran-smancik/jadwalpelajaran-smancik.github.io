@@ -1,0 +1,19 @@
+h3 {
+    font-family:'poppins', sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px 13px;
+}
+
+table{
+    width: 100%; 
+}
+
+th,td {
+    padding: 8px;
+    text-align: center;
+    font-family: 'poppins', sans-serif;}
+
+    tr:nth-child(even) {
+        background-color: aquamarine;
+    }
